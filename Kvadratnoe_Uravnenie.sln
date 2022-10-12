@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kvadratnoe_Uravnenie", "Kvadratnoe_Uravnenie\Kvadratnoe_Uravnenie.csproj", "{12B2E81D-9DBA-4E27-AD83-A7B924362F2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B2E81D-9DBA-4E27-AD83-A7B924362F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B2E81D-9DBA-4E27-AD83-A7B924362F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B2E81D-9DBA-4E27-AD83-A7B924362F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B2E81D-9DBA-4E27-AD83-A7B924362F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653B503F-40EF-4052-878A-0CFFEB278F3D}
+	EndGlobalSection
+EndGlobal
